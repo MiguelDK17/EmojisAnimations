@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EmojisAnimations</string>
+    <string name="excelente">Excelente</string>
+    <string name="bom">Bom</string>
+    <string name="ruim">Ruim</string>
+    <string name="horrivel">Horrível</string>
+</resources>
